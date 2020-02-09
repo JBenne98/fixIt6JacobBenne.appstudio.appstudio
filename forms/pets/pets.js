@@ -53,7 +53,7 @@ case '10':
   break;
 case '11':
   let stringPets = petNames.join()
-  console.log(`The action taken was: Use .join to create a string variable\n The string is ${stringPets}`)
+  console.log(`The action taken was: Use .join to create a string variable\n The string is: ${stringPets}`)
   break;
 case '12':
   let addAgnes =petNames.unshift('Agnes')
